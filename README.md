@@ -1,16 +1,16 @@
-### Hi there 👋
+---
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30px"/>, I am Varun Mahajan!
+---
 
-<!--
-**varunmahajan292/varunmahajan292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced Software Developer who constantly seeks out innovative solutions to everyday problems. In my 3+ years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. Currently, I am working as a Software Developer with a reputed organization.
 
-Here are some ideas to get you started:
+In the next 10 years, I'd like to move into a Chief Technology Officer role. A position like this senior software engineer job would let me gain more experience with project management and leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+---
+
+
+
