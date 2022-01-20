@@ -6,6 +6,9 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30px"/>, I am Varun Mahajan!
 ---
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Software+Developer;Mobile+App+Developer;.NET+Developer;Enthusiastic;Researcher;Ready+For+The+Challenges"></a>
+</p>
 
 I am an experienced **Software Developer** who constantly seeks out innovative solutions to everyday problems. In my 3+ years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. Currently, I am working as a Software Developer with a reputed organization.
 
