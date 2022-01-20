@@ -1,5 +1,9 @@
 <!--![hippo](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)-->
-![hippo](https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif)
+<!--![Developer](https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif)-->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+</p>
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30px"/>, I am Varun Mahajan!
 ---
 
