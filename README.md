@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Software+Developer;Mobile+App+Developer;.NET+Developer;Enthusiastic;Researcher;Ready+For+The+Challenges"></a>
 </p>
 
-I am an experienced **Software Developer** who constantly seeks out innovative solutions to everyday problems. In my 3+ years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team. Currently, I am working as a Software Developer with a reputed organization.
+Experienced **Software Developer** and Tester with **5+ years of hands-on experience** across the entire software development lifecycle. Skilled in designing, developing, and executing comprehensive test plans, test cases, and testing processes. A detail-oriented technology professional adept at working in complex, project-driven environments, with broad experience in software development, quality assurance, and user acceptance testing. Proven ability to deliver high-quality software solutions through collaboration, analytical thinking, and a strong commitment to continuous improvement.
 
 In the next 10 years, I'd like to move into a Chief Technology Officer role. A position like this senior software engineer job would let me gain more experience with project management and leadership.
 
